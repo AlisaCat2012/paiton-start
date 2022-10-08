@@ -1,0 +1,17 @@
+size(1000,800);
+fill(255,105,180);
+push();
+translate(500,400);
+rotate(radians(45));
+ellipse(0,0,150,100);
+pop();
+push();
+translate(550,400);
+rotate(radians(135));
+ellipse(0,0,150,100);
+pop();
+push();
+translate(525,363);
+rotate(radians(45));
+rect(0,0,100,100);
+fill(255,105,180);
